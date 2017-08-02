@@ -30,8 +30,6 @@
 #include "driverlib/pin_map.h"
 #include "driverlib/rom.h"
 #include "driverlib/sysctl.h"
-#include "led_task.h"
-#include "switch_task.h"
 #include "FreeRTOS.h"
 #include "task.h"
 #include "queue.h"
